@@ -23,17 +23,17 @@ print << '__HTML__';
   </head>
   <body>
  <script src="./main.js"></script>
-<form method="POST" action= "index.cgi" onclick="Calc();">
+<form method="POST" action= "index.cgi" onClick="Calc();">
 <h1>計算機(Sum Only)</h1>
       <input type= "text" id="inputL">
       +
       <input type= "text" id="inputR">
-      <input type="button"  value="Submit" onclick="Calc();">
+      <input type="button"  value="Submit" >
   <h2>結果</h2>
 
-  <div id="result"></div>
 </form>
 
+  <div id="result"></div>
   </body>
 
 __HTML__
