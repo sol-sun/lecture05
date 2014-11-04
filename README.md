@@ -1,4 +1,4 @@
-##最新のPerlのバージョンだと，CPANからダウンロードする必要あり．
+##最新のPerlのバージョンだと，CPANからCGIモジュールをダウンロードする必要あり．
 
 
 CGI.pm (http://search.cpan.org/~lds/CGI.pm-3.43/CGI.pm)  
